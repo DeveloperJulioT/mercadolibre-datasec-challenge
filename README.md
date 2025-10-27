@@ -164,4 +164,4 @@ tests/test_minesweeper.py::test_minesweeper_example_case PASSED
 **Julio Tarquino**  
 Software engineer expert in cybersecurity and information security
 📍 Colombia 🇨🇴  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/julio-david-tarquino-calderon-cyber-dev-ops/) | [GitHub](https://github.com/)
