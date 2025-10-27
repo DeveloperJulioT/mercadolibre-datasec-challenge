@@ -7,7 +7,7 @@ Este repositorio contiene la solución completa de **Mercado Libre DataSec Techn
 ## 📁 Estructura del Proyecto
 
 ```
-MercadoLibre_Challenge/
+mercadolibre-datasec-challenge/
 │
 ├── solution_minesweeper.py        # Punto 1: Lógica de Buscaminas
 │── solution_best_in_genre.py      # Punto 2: API de series y mejor género
