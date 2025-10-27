@@ -152,7 +152,7 @@ tests/test_minesweeper.py::test_minesweeper_example_case PASSED
 | Tecnología | Propósito |
 |-------------|------------|
 | **Python 3.12.3** | Lógica, consultas y validaciones |
-| **Go 1.20+** | CLI con conexión a Hugging Face |
+| **Go 1.25.3** | CLI con conexión a Hugging Face |
 | **pytest** | Pruebas unitarias |
 | **SQLite / SQL** | Validación y ejecución de consultas |
 | **Hugging Face API** | Generación de resúmenes con IA |

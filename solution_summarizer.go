@@ -1,6 +1,6 @@
 // Mercado Libre DataSec Technical Challenge
 // Go CLI - Text Summarizer with GenAI (HuggingFace API)
-// Go versión: 1.20+
+// Go versión: 1.25.3
 // Ejemplo de ejecución:
 //   go run solution_summarizer.go --file texto.txt --type bullet
 //   go run solution_summarizer.go --text "Texto de ejemplo" --type short
