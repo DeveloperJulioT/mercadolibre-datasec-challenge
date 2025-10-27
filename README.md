@@ -1,6 +1,6 @@
 # 🧠 Mercado Libre DataSec Technical Challenge
 
-Este repositorio contiene la solución completa al **Mercado Libre DataSec Technical Challenge**, desarrollado en **Python 3.12.3** y **Go 1.20+**, con prácticas de ingeniería segura, pruebas unitarias y uso de inteligencia artificial (Hugging Face Inference API).
+Este repositorio contiene la solución completa de **Mercado Libre DataSec Technical Challenge**, desarrollado en **Python 3.12.3** y **Go 1.20+**, con prácticas de ingeniería segura, pruebas unitarias y uso de inteligencia artificial (Hugging Face Inference API).
 
 ---
 
@@ -9,13 +9,12 @@ Este repositorio contiene la solución completa al **Mercado Libre DataSec Techn
 ```
 MercadoLibre_Challenge/
 │
-├── Solution/
-│   ├── solution_minesweeper.py        # Punto 1: Lógica de Buscaminas
-│   ├── solution_best_in_genre.py      # Punto 2: API de series y mejor género
-│   ├── solution_ad_failures.sql       # Punto 3: Consulta SQL con validación
-│   ├── validate_sql_solution.py       # Punto 3: Script para validar la consulta
-│   ├── solution_summarizer.go         # Punto 4: CLI con HuggingFace API
-│   └── tests/                         # Carpeta de pruebas unitarias (pytest)
+├── solution_minesweeper.py        # Punto 1: Lógica de Buscaminas
+│── solution_best_in_genre.py      # Punto 2: API de series y mejor género
+│── solution_ad_failures.sql       # Punto 3: Consulta SQL con validación
+│── validate_sql_solution.py       # Punto 3: Script para validar la consulta
+│── solution_summarizer.go         # Punto 4: CLI con HuggingFace API
+│── tests/                         # Carpeta de pruebas unitarias (pytest)
 │
 └── README.md
 ```
