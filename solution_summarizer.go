@@ -123,7 +123,7 @@ func summarizeWithHuggingFace(ctx context.Context, text string, kind string, api
     }
     defer resp.Body.Close()
 
-    // 👇 Nuevo bloque de debug
+    // Nuevo bloque de debug
     fmt.Println("Código de respuesta:", resp.StatusCode)
     if resp.StatusCode < 200 || resp.StatusCode >= 300 {
         b, _ := io.ReadAll(resp.Body)
