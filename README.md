@@ -1,6 +1,6 @@
 # 🧠 Mercado Libre DataSec Technical Challenge
 
-Este repositorio contiene la solución completa de **Mercado Libre DataSec Technical Challenge**, desarrollado en **Python 3.12.3** y **Go 1.20+**, con prácticas de ingeniería segura, pruebas unitarias y uso de inteligencia artificial (Hugging Face Inference API).
+Este repositorio contiene la solución completa de **Mercado Libre DataSec Technical Challenge**, desarrollado en **Python 3.12.3** y **Go 1.25.3**, con prácticas de ingeniería segura, pruebas unitarias y uso de inteligencia artificial (Hugging Face Inference API).
 
 ---
 
